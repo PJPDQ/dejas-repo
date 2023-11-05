@@ -4,7 +4,7 @@ In this event, we have utilized data from various sources to analyze and predict
 
 ## Our analysis relies on data obtained from the following sources:
 
-### NPWS Fire History - Wildfires and Prescribed Burns:
+### Fire History - Wildfires
 #### Data Source: NPWS Fire History https://datasets.seed.nsw.gov.au/dataset/fire-history-wildfires-and-prescribed-burns-1e8b6 
 #### Description: This dataset provides valuable information about the history of wildfires and prescribed burns, offering insights into historical fire occurrences.
 
