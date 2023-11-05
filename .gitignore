@@ -12,3 +12,7 @@ dataset/wildfire_data.csv
 dataset/NSW_fire_history_polygons.geojson
 dataset/nsw_2019_sa2.zip
 dataset/nsw_2019_sa2/
+dataset/data_Australia_filter.csv
+dataset/label_data.zip
+dataset/nsw_2016_2019_sa2
+dataset/2020-2023*
