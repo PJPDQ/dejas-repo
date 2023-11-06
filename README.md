@@ -10,7 +10,7 @@ In this event, we have utilized data from various sources to analyze and predict
 In this part of the project, the goal was to create maps by overlaying various layers of data onto geographical areas. These data layers include information about fire stations, high-risk bush fire areas, biodiversity data, and endangered species areas map. One specific analysis carried out is calculating the distance between fire stations and the centroid (central point) of high-risk bush fire areas. This distance calculation is optimized to identify regions that are at high risk, where endangered species habitats are present, but there might be a lack of fire prevention resources. Essentially, this part of the project involves visually representing the data layers and using spatial analysis to determine areas of concern where the convergence of high risk and the presence of endangered species meet with a potential lack of fire prevention resources.
 
 #### (b) Predictor:
-In the second part of the project, the focus is on prediction. Predictors are created using an Artificial Intelligence (AI) model. The model's training data is gathered from diverse sources as mentioned below. 
+In the second part of the project, the focus is on prediction. Predictors are created using an Artificial Intelligence (AI) model. The model's training data is gathered from diverse sources as mentioned below. After obtaining the historial dependent variables about climates etc, we got the labeles data from historial records of bush fire. These were integrated using same date and geometry information. 
 
  
 ## Our analysis relies on data obtained from the following sources:
