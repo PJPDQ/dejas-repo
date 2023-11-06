@@ -42,24 +42,24 @@ As part of our efforts, we have developed an open-source R-Shiny application tha
 
 ### Results
 
-##### Example of critical area (Identified areas)
+##### Example of critical area (Identified areas) Read more here https://storymaps.arcgis.com/stories/e038ffe87aa44c01ad2a43ec6eb843bc 
 
-##### Layer 1 : Bush Fire
+##### Layer 1: Bushfire prone and affected areas for the year 2019-2020
  <p align="center">
  <img src="https://github.com/PJPDQ/dejas-repo/assets/45668229/5d5d6abf-9586-45e7-b83c-3e4bf633712a.png"  width="88%" height="400">&nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
-#####  Layer 2 : Fire Station
+#####  Layer 2 : Existing fire-stations facility in NSW
 <p align="center">
 <img src="https://github.com/PJPDQ/dejas-repo/assets/45668229/d51ffe1d-1077-41d5-99bc-ce338d69d615.png"  width="88%" height="400">
 </p>
 
-#### Layer 3: koala habitat
+#### Layer 3: Identifying the geographic boundaries of state forest regions and the habitats of endangered species in the state of New South Wales.
 <p align="center">
 <img src="https://github.com/PJPDQ/dejas-repo/assets/45668229/cd4955ae-b340-4582-a911-5fe9f09e73bc.png"  width="88%" height="400">
 </p>
 
-#### Layer 4: Coverage areas for the fire stations
+#### Layer 4: Optimal coverage area, location and count of the fire-stations
 <p align="center">
 <img src="https://github.com/PJPDQ/dejas-repo/assets/45668229/cd4955ae-b340-4582-a911-5fe9f09e73bc.png"  width="88%" height="400">
 </p>
