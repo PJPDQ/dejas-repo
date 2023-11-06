@@ -3,6 +3,8 @@
 In this event, we have utilized data from various sources to analyze and predict bushfires and their potential impact on endangered species and flaged certain regions which lack fire prevention resources.
 
 ### Story Map : https://storymaps.arcgis.com/stories/e038ffe87aa44c01ad2a43ec6eb843bc 
+### Arcgis integrated spatial Map : https://undatathon.maps.arcgis.com/apps/mapviewer/index.html?webmap=a406dce68acb4bae9fb6382d44551c5c 
+### ShinyApp integrated spatial Map : https://ju-stats.shinyapps.io/FireApp/
 
 #### The project is divided into two distinct parts:
 
