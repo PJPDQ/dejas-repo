@@ -44,28 +44,28 @@ As part of our efforts, we have developed an open-source R-Shiny application tha
 
 ##### Case 1 ## Layer 1 
  <p align="center">
- <img src="https://github.com/PJPDQ/dejas-repo/assets/45668229/5d5d6abf-9586-45e7-b83c-3e4bf633712a.png"  width="78%" height="600">&nbsp; &nbsp; &nbsp; &nbsp;
+ <img src="https://github.com/PJPDQ/dejas-repo/assets/45668229/5d5d6abf-9586-45e7-b83c-3e4bf633712a.png"  width="88%" height="600">&nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
 ##### Case 1 ## Layer 2
 <p align="center">
-<img src="https://github.com/PJPDQ/dejas-repo/assets/45668229/d51ffe1d-1077-41d5-99bc-ce338d69d615.png"  width="78%" height="600">
+<img src="https://github.com/PJPDQ/dejas-repo/assets/45668229/d51ffe1d-1077-41d5-99bc-ce338d69d615.png"  width="88%" height="600">
 </p>
 
 #### Layer 3: for koala habitat
 <p align="center">
-<img src="https://github.com/PJPDQ/dejas-repo/assets/45668229/cd4955ae-b340-4582-a911-5fe9f09e73bc.png"  width="78%" height="600">
+<img src="https://github.com/PJPDQ/dejas-repo/assets/45668229/cd4955ae-b340-4582-a911-5fe9f09e73bc.png"  width="88%" height="600">
 </p>
 
 #### Layer 4: Snapshot 1 for generated coverage areas for the fire stations
 <p align="center">
-<img src="https://github.com/PJPDQ/dejas-repo/assets/45668229/cd4955ae-b340-4582-a911-5fe9f09e73bc.png"  width="78%" height="600">
+<img src="https://github.com/PJPDQ/dejas-repo/assets/45668229/cd4955ae-b340-4582-a911-5fe9f09e73bc.png"  width="88%" height="600">
 </p>
 
 ### Fire stations
 
 <p align="center">
-<img src="https://github.com/PJPDQ/dejas-repo/assets/45668229/f9c1ed76-5dea-4ba6-a3b6-53453a419c5e.png"  width="78%" height="600">
+<img src="https://github.com/PJPDQ/dejas-repo/assets/45668229/f9c1ed76-5dea-4ba6-a3b6-53453a419c5e.png"  width="88%" height="600">
 </p>
 
 
