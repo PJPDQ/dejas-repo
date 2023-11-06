@@ -70,6 +70,18 @@ As part of our efforts, we have developed an open-source R-Shiny application tha
 <img src="https://github.com/PJPDQ/dejas-repo/assets/45668229/f9c1ed76-5dea-4ba6-a3b6-53453a419c5e.png"  width="88%" height="400">
 </p>
 
+##Future Directions: To advance our research, we envision several promising avenues for future work.
+
+### Enhanced Data Integration: 
+Future endeavors should prioritize the incorporation of an even broader range of data sources for training our AI model. This could encompass the integration of satellite-derived vegetation change data over time, soil moisture measurements, and more. Such diverse datasets can significantly improve the model's accuracy and applicability.
+
+### Global Scale Analysis: 
+We see potential in expanding our work to a global level analysis. 
+
+### Small-Area Endangered Species Quantification: 
+Delving into localized quantification of endangered species can yield valuable insights. Focusing on smaller geographical areas allows for more precise conservation efforts and habitat protection. However, it's crucial to emphasize that such efforts depend heavily on comprehensive surveys and open access to relevant data sources.
+
+In summary, these future directions encompass the integration of diverse data sources, global-scale analysis, and localized quantification of endangered species. The success of these endeavors will be contingent on collaborative survey efforts and the availability of open-access data.
 
 ## MIT License
 
