@@ -4,23 +4,32 @@ In this event, we have utilized data from various sources to analyze and predict
 
 ### Story Map : https://storymaps.arcgis.com/stories/e038ffe87aa44c01ad2a43ec6eb843bc 
 
+#### The project is divided into two distinct parts:
+
+#### (a) Mapping Different Layers of Data:
+In this part of the project, the goal was to create maps by overlaying various layers of data onto geographical areas. These data layers include information about fire stations, high-risk bush fire areas, biodiversity data, and endangered species areas map. One specific analysis carried out is calculating the distance between fire stations and the centroid (central point) of high-risk bush fire areas. This distance calculation is optimized to identify regions that are at high risk, where endangered species habitats are present, but there might be a lack of fire prevention resources. Essentially, this part of the project involves visually representing the data layers and using spatial analysis to determine areas of concern where the convergence of high risk and the presence of endangered species meet with a potential lack of fire prevention resources.
+
+#### (b) Predictors:
+In the second part of the project, the focus is on prediction. Predictors are created using an Artificial Intelligence (AI) model. The model's training data is gathered from diverse sources as mentioned below. 
+
+ 
 ## Our analysis relies on data obtained from the following sources:
 
-### Fire History - Wildfires
+### Fire History - Wildfires ( Data is collected for mapping (20--) and modeeling (2020-2023) purpose)
 #### Data Source: NPWS Fire History https://datasets.seed.nsw.gov.au/dataset/fire-history-wildfires-and-prescribed-burns-1e8b6 
 #### Description: This dataset provides valuable information about the history of wildfires and prescribed burns, offering insights into historical fire occurrences.
 
 
-### Climate Data
+### Climate Data (For Modelling purpose from Jan, 2020-Nov, 2023)
 #### Data Source: CPC - Climate Prediction Center  https://ftp.cpc.ncep.noaa.gov/cadb_v2/daily/ 
 #### Description: daily data obtained from the Climate Prediction Center. This data helps us in forecasting and understanding the dynamics of bushfires. 
 
-### Threatened Species 
+### Threatened Species (For Mapping purpose)
 #### Data Source: https://www.iucnredlist.org/resources/spatial-data-download
 #### Description: The IUCN Red List of Threatened Species™ contains global assessments for more than 150,300 species. More than 82% of these (>123,600 species) have spatial data.
 #### Note: So far in our R-shiny App, we only integrated Mammals and Reptiles.
 
-### Fire Station Data
+### Fire Station Data (For Mapping purpose)
 #### Data Source: Fire and Rescue NSW (FRNSW) https://www.fire.nsw.gov.au/ 
 #### Description: This data provide us with the number of fire station in NSW. More details of the extraction https://github.com/PJPDQ/dejas-repo/blob/main/fire_station_fetcher.ipynb 
 
