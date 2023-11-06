@@ -16,7 +16,7 @@ In this event, we have utilized data from various sources to analyze and predict
 ### Threatened Species 
 #### Data Source: https://www.iucnredlist.org/resources/spatial-data-download
 #### Description: The IUCN Red List of Threatened Species™ contains global assessments for more than 150,300 species. More than 82% of these (>123,600 species) have spatial data.
-#### Note: So far in our R-shiny App, we only integrated Mammals and Repltiles.
+#### Note: So far in our R-shiny App, we only integrated Mammals and Reptiles.
 
 ### Fire Station Data
 #### Data Source: ????????
