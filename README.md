@@ -42,12 +42,14 @@ As part of our efforts, we have developed an open-source R-Shiny application tha
 
 ### Results
 
-##### Case 1 ## Layer 1 : Bush Fire
+##### Example of critical area (Identified areas)
+
+##### Layer 1 : Bush Fire
  <p align="center">
  <img src="https://github.com/PJPDQ/dejas-repo/assets/45668229/5d5d6abf-9586-45e7-b83c-3e4bf633712a.png"  width="88%" height="400">&nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
-##### Case 1 ## Layer 2 : Fire Station
+#####  Layer 2 : Fire Station
 <p align="center">
 <img src="https://github.com/PJPDQ/dejas-repo/assets/45668229/d51ffe1d-1077-41d5-99bc-ce338d69d615.png"  width="88%" height="400">
 </p>
