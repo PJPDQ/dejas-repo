@@ -20,7 +20,7 @@ In this event, we have utilized data from various sources to analyze and predict
 
 ### Fire Station Data
 #### Data Source: Fire and Rescue NSW (FRNSW) https://www.fire.nsw.gov.au/ 
-#### Description: ???????
+#### Description: This data provide us with the number of fire station in NSW. More details of the extraction https://github.com/PJPDQ/dejas-repo/blob/main/fire_station_fetcher.ipynb 
 
 
 ### Hosting the Open-Sourced R-Shiny App:
