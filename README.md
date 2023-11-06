@@ -39,11 +39,24 @@ In the second part of the project, the focus is on prediction. Predictors are cr
 ### Hosting the Open-Sourced R-Shiny App:
 As part of our efforts, we have developed an open-source R-Shiny application that integrates geospatial data related to bushfires, fire stations, and endangered species. The primary objective of this application is to highlight regions at high risk of wildfires and are habitat of endangered species.
 
+### Results
+
+ <p align="center">
+ <img src="https://github.com/PJPDQ/dejas-repo/assets/45668229/5d5d6abf-9586-45e7-b83c-3e4bf633712a.png"  width="78%" height="600">&nbsp; &nbsp; &nbsp; &nbsp;
+
+</p>
+<p align="center">
+<img src="https://github.com/PJPDQ/dejas-repo/assets/45668229/d51ffe1d-1077-41d5-99bc-ce338d69d615.png"  width="78%" height="600">
+</p>
+
+
+
+
 #### Link for ShinyApp: https://ju-stats.shinyapps.io/FireApp/
 
 ## MIT License
 
-Copyright (c) 2023 [Dicky Sentosa, Amarinder Singh Thind,John Uesi, Surekha Gaikwad]
+Copyright (c) 2023 Dicky Sentosa, Amarinder Singh Thind, John Uesi, Surekha Gaikwad
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
